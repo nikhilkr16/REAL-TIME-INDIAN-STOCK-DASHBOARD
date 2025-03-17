@@ -6,6 +6,12 @@
 
 A powerful and interactive dashboard for real-time monitoring of Indian stock market data. Built with Streamlit and NSELib, this dashboard provides comprehensive market insights and analysis tools.
 
+**Live Demo**: [View the Dashboard](https://real-time-indian-stock-dash.streamlit.app/)
+
+**Reference Repository**: [NSELib by RuchiTanmay](https://github.com/RuchiTanmay/nselib)
+
+---
+
 ## ✨ Features
 
 ### 📊 NSE Equity Market Data
@@ -31,13 +37,15 @@ A powerful and interactive dashboard for real-time monitoring of Indian stock ma
 - Easy-to-use filters and selectors
 - Detailed analytical views
 
+---
+
 ## 🛠️ Installation
 
 1. Clone the repository
 ```bash
 git clone https://github.com/nikhilkr16/REAL-TIME-INDIAN-STOCK-DASHBOARD.git
 cd REAL-TIME-INDIAN-STOCK-DASHBOARD
-```
+ ```
 
 2. Create and activate virtual environment (recommended)
 ```bash
@@ -112,6 +120,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - NSELib for providing the data interface
 - Streamlit for the amazing web framework
 - Indian National Stock Exchange for the market data
+- RuchiTanmay for the NSELib reference repository
+
+
 
 ---
 ⭐ Star this repository if you find it helpful!
