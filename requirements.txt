@@ -5,3 +5,4 @@ beautifulsoup4
 lxml
 html5lib
 requests 
+pandas_market_calendars
